@@ -1,6 +1,19 @@
 # The MusicMap Globe
 
-TODO: Write a gem description
+This WebGL globe was created as part of the [http://www.getmusicmap.com](MusicMap)
+Spotify application. The only dependencies are jQuery and Three.js.
+
+[This blog post]() outlines how the globe was built.
+
+## Acknowledgments
+
+The globe is based on the 
+[The WebGL Globe project](http://www.chromeexperiments.com/globe) 
+with many of the improvements presented in 
+[Making of the World Wonders 3D Globe](http://www.html5rocks.com/en/tutorials/webgl/globe/).
+
+Also, it uses the country lookup texture from
+[Small Arms and Ammunition - Imports & Exports](http://workshop.chromeexperiments.com/projects/armsglobe).
 
 ## Installation
 
