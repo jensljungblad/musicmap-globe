@@ -1,18 +1,18 @@
 # The MusicMap Globe
 
 This WebGL globe was created as part of the [MusicMap](http://www.getmusicmap.com)
-Spotify application. The only dependencies are jQuery and Three.js.
+Spotify application. It has two dependencies: [jQuery](http://jquery.com/) and [Three.js](http://threejs.org/).
 
 [This blog post]() outlines how the globe was built.
 
 ## Acknowledgments
 
 The globe is based on the 
-[The WebGL Globe project](http://www.chromeexperiments.com/globe) 
-with many of the improvements presented in 
+[The WebGL Globe project](http://www.chromeexperiments.com/globe),
+with many of the improvements available from 
 [Making of the World Wonders 3D Globe](http://www.html5rocks.com/en/tutorials/webgl/globe/).
 
-Also, it uses the country lookup texture from
+In order to determine which country is being hovered, it uses the country lookup texture from
 [Small Arms and Ammunition - Imports & Exports](http://workshop.chromeexperiments.com/projects/armsglobe).
 
 ## Installation
