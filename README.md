@@ -3,7 +3,7 @@
 This WebGL globe was created as part of the [MusicMap](http://www.getmusicmap.com)
 Spotify application. It has two dependencies: [jQuery](http://jquery.com/) and [Three.js](http://threejs.org/).
 
-[This blog post]() outlines how the globe was built.
+[This blog post](http://www.jensljungblad.com/blog/2014/08/18/the-musicmap-globe/) outlines how the globe was built.
 
 ## Acknowledgments
 
