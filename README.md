@@ -1,6 +1,6 @@
 # The MusicMap Globe
 
-This WebGL globe was created as part of the [http://www.getmusicmap.com](MusicMap)
+This WebGL globe was created as part of the [MusicMap](http://www.getmusicmap.com)
 Spotify application. The only dependencies are jQuery and Three.js.
 
 [This blog post]() outlines how the globe was built.
