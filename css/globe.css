@@ -1,0 +1,22 @@
+#globe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+#globe-country-label {
+  position: absolute;
+  padding: 6px 10px;
+  background-color: rgba(25,25,25,1);
+  border-radius: 5px;
+  z-index: 1;
+}
+
+#globe-country-label span {
+  display: block;
+  font-size: 22px;
+}
+
+#globe-country-label small {
+  display: block;
+}
